@@ -1,0 +1,1 @@
+[TRANSCRIPT EXTRACTION] - Video: "How to rank AI Content in 2024" - Key points: Use local LLMs, focus on topical authority, avoid generic GPT prompts. Data collected manually due to API strict limits.
