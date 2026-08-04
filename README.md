@@ -1,5 +1,7 @@
 # Technical Task: Junior Growth Marketing Specialist - 100Hires
 
+> **📍 UPDATE - STEP 3:** The finalized Playbook and SOP evaluating the research, including expert disagreements, rejected ideas, and original QA-driven methodologies, can be found here: [**View Playbook ([playbook.md](http://playbook.md))**](./[playbook.md](http://playbook.md))
+
 ## Step 2: Research Project - AI-Powered SEO Content Production
 
 ### 1. Topic Selection & Expert Curation
@@ -61,3 +63,4 @@ The following core development tools and runtime environments were successfully 
 - **Symptom:** The CLI tool restricted login methods, demanding an active paid Tier or a Commercial API profile with pre-funded credits.
 - **Root Cause Analysis:** Anthropic's preview implementation enforces active commercial metering profiles to manage traffic.
 - **Resolution (Professional Cost-Control Policy):** No personal financial resources were deployed for a pre-onboarding technical assessment. The local system has been verified and fully configured, leaving the local CLI framework fully prepared to accept enterprise API keys upon workflow allocation.
+
